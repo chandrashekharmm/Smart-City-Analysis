@@ -1,0 +1,5 @@
+{
+  "name": "Smart City Command Hub",
+  "description": "A full-stack Digital Twin analytics platform. Upload urban data (CSV) to generate real-time AI-powered dashboards, visualize city nodes via D3.js, and receive automated insights using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
